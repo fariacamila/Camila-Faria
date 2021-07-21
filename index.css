@@ -220,10 +220,6 @@ iframe {
     justify-content: space-between;
 }
 
-.blog-btn-container {
-    cursor: pointer;
-}
-
 .blog-bloco {
     box-shadow: 0px 4.51506px 9.03012px rgba(176, 190, 197, 0.24);
     width: 100%;
@@ -394,19 +390,6 @@ iframe {
     line-height: 160%;
 }
 
-.faq-item-conteiner {
-    background-color: #F2F2F2;
-    color: #4B4B4B;
-}
-
-.faq-item-conteiner h2 {
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 140%;
-    padding-top: 24px;
-    padding-left: 24px;
-}
-
 .faq-paragrafo {
     margin-top: 8px;
 }
@@ -426,11 +409,6 @@ iframe {
 
 .android {
     margin-top: 8px;
-}
-
-.item {
-    margin-top: 16px;
-    background-color: #F2F2F2;
 }
 
 footer {
