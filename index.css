@@ -121,14 +121,6 @@ iframe {
     height: 340px;
 }
 
-.video-img {
-    height: 340px;
-    background-image: url(imagens/backgroud.PNG);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
 .video .container {
     justify-content: center;
     align-items: center
